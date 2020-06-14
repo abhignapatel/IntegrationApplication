@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntegrationApplication</string>
+    <string name="sign_in">sign in</string>
+    <string name="name">name</string>
+    <string name="todo">TODO</string>
+    <string name="sign_out">sign out</string>
+    <string name="facebook_app_id">2641890379421265</string>
+    <string name="fb_login_protocol_scheme">fb2641890379421265</string>
+</resources>
